@@ -1,16 +1,14 @@
 {
     "cSpell.words": [
         "Contato",
-        "Imagem",
         "Lista",
-        "Produto",
         "Sobre",
         "contador",
         "detalhe",
-        "downlevel",
-        "esnext",
         "institucional",
         "navegacao",
+        "produto",
         "produtos"
-    ]
+    ],
+    "git.ignoreLimitWarning": true
 }

@@ -15,12 +15,11 @@ export class DataBindingComponent {
     this.contadorClique++;
   }
 
-  zerarContador(){
-    this.contadorClique = 0;
+  zerarContator(){
+    this.contadorClique=0;
   }
 
-  /* KeyUp(event: any){
+  /* keyUp(event: any){
     this.nome = event.target.value;
   } */
-
 }
